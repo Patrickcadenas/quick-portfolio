@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+logo: /assets/img/patrick_ux_jr.png
+title: "Patrick A. Cadenas"
+description: > 
+Soy un diseñador UX Jr orientado a la creacion y mejora de productos digitales, me centro en la busqueda de 
+soluciones que brinden coherencia, simplicidad y experiencias agradables.
+<br><br>
+He trabajado en proyectos Webs como Moviles, colaboro bien en equipo y soy solvente y emprendedor al momento de adoptar 
+responsabilidades, trabajo orientado a resultados.
+show_downloads: False
+google_analytics:
